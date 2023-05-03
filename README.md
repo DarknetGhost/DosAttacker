@@ -28,4 +28,4 @@ sudo su
 
 bash install.sh
 
-# En la instalacion nos encargaremos con las instalaciones extra
+# En la instalacion nos encargaremos con los repositorios extra
