@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Recuerda tener en segundo plano una VPN por seguridad"
-
+echo ""
 echo "1.-Linux"
 echo "2.-Termux"
 echo ""
@@ -37,7 +37,7 @@ elif [[ $opcion -eq 2 ]]; then
   echo "Herramienta creada por DarknetGhost"
   echo ""
   echo "Estamos haciendo todo por ti..."
-  pkg update -y /dev/null 2>&1 && pkg upgrade -y > /dev/null 2>&1
+  pkg update -y > /dev/null 2>&1 && pkg upgrade -y > /dev/null 2>&1
   pkg install python3 > /dev/null 2>&1
   pip3 install -r requirements.txt > /dev/null 2>&1
 
