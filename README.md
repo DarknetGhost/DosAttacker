@@ -16,8 +16,6 @@ cd DdosAttacker
 
 bash install.sh
 
-Nosotros nos encargamos del resto
-
 # Instalacion Linux
 
 sudo apt-get install git
@@ -29,3 +27,5 @@ cd DdosAttacker
 sudo su
 
 bash install.sh
+
+# En la instalacion nos encargaremos con las instalaciones extra
