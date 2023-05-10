@@ -1,4 +1,4 @@
-# DdosAttacker
+# DosAttacker
 Herramienta Para ataque de Denegacion de Servicio.
 
 La herramienta estara estara pasando por varias mejoras y optimizaciones de codigo.
@@ -10,9 +10,9 @@ Si usas la herramienta entre varias personas el ataque sera mas efectivo.
 # Instalacion Termux
 pkg install git
 
-git clone https://github.com/DarknetGhost/DdosAttacker
+git clone https://github.com/DarknetGhost/DosAttacker
 
-cd DdosAttacker
+cd DosAttacker
 
 bash install.sh
 
@@ -20,9 +20,9 @@ bash install.sh
 
 sudo apt-get install git
 
-git clone https://github.com/DarknetGhost/DdosAttacker
+git clone https://github.com/DarknetGhost/DosAttacker
 
-cd DdosAttacker
+cd DosAttacker
 
 sudo su
 
